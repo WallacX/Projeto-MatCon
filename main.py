@@ -3,6 +3,7 @@
 
 from models.clientes_model import *
 """uma edição quq""""
+'bananas de pijamas'
 """try:
     lista_clientes = getClientes()
 except Exception as e:
